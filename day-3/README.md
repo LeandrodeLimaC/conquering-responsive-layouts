@@ -1,8 +1,8 @@
  INSTRUCTIONS
 
- - [ ] Keep the text inside .intro-content in the same place, but have the background extend from one side of the viewport to the other, no matter how wide or narrow the browser is.
+ - [x] Keep the text inside .intro-content in the same place, but have the background extend from one side of the viewport to the other, no matter how wide or narrow the browser is.
 
- - [ ] Limit the maximum width of the text in the bottom area.
+ - [x] Limit the maximum width of the text in the bottom area.
 
  You may modify the HTML if needed
  (you probably should for this challenge)
